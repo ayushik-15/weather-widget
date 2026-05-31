@@ -18,7 +18,7 @@ export default function WeatherApp() {
     let updateInfo = (newInfo)=>{
         setWeatherInfo(newInfo);
     }
-    return (
+    return(
 
         <div className="WeatherApp" style={{ textAlign: "center"}}>
             <h1>Weather Widget</h1>
