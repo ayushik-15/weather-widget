@@ -1,0 +1,17 @@
+ 
+.WeatherApp {
+  text-align: center;
+  padding: 2.5rem 1rem 3rem;
+  min-height: 100vh;
+}
+ 
+.WeatherApp h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #a8edea;
+  letter-spacing: 0.03em;
+  /* margin-top: 0.1rem; */
+  margin-bottom: 2rem;
+  text-shadow: 0 2px 20px rgba(168, 237, 234, 0.4);
+}
